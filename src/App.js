@@ -12,7 +12,7 @@ import 'tachyons';
 import './App.css';
 
 const app = new Clarifai.App({
-  apiKey: '627ff3c665a1430db9bd4606f9298deb'
+  apiKey: 'x'
 }); //sample
 
 const particlesOptions = {
